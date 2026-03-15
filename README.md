@@ -1,3 +1,9 @@
+# demo_repo_zzh
+
+这是用于 GitHub 学习的代码仓库。
+
+---
+
 # 俄罗斯方块 (Tetris)
 
 Python + Pygame 实现的俄罗斯方块小游戏。
