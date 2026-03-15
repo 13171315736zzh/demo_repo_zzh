@@ -1,0 +1,13 @@
+# 虚拟环境
+nenv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+.eggs/
+
+# 系统文件
+.DS_Store
